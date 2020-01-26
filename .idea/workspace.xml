@@ -4,13 +4,7 @@
     <list default="true" id="49546e52-5444-4c42-870b-2644e171e524" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/fourth.html" beforeDir="false" afterPath="$PROJECT_DIR$/fourth.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/holiday.html" beforeDir="false" afterPath="$PROJECT_DIR$/holiday.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/review.html" beforeDir="false" afterPath="$PROJECT_DIR$/review.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second.html" beforeDir="false" afterPath="$PROJECT_DIR$/second.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specialist.html" beforeDir="false" afterPath="$PROJECT_DIR$/specialist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third.html" beforeDir="false" afterPath="$PROJECT_DIR$/third.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/where.html" beforeDir="false" afterPath="$PROJECT_DIR$/where.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="128" column="32" selection-start-line="128" selection-start-column="32" selection-end-line="132" selection-end-column="76" />
+            <state relative-caret-position="48">
+              <caret line="59" column="24" lean-forward="true" selection-start-line="59" selection-start-column="24" selection-end-line="64" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -44,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/third.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="125" column="44" lean-forward="true" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
+            <state relative-caret-position="216">
+              <caret line="64" column="43" lean-forward="true" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -53,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/where.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="123" column="30" lean-forward="true" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
+            <state relative-caret-position="96">
+              <caret line="61" column="62" selection-start-line="61" selection-start-column="62" selection-end-line="61" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -62,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="125" column="44" lean-forward="true" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
+            <state relative-caret-position="96">
+              <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -72,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/specialist.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="157" column="33" lean-forward="true" selection-start-line="157" selection-start-column="33" selection-end-line="157" selection-end-column="33" />
+              <caret line="60" column="73" lean-forward="true" selection-start-line="60" selection-start-column="73" selection-end-line="60" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -80,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/holiday.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="131" column="81" lean-forward="true" selection-start-line="131" selection-start-column="81" selection-end-line="131" selection-end-column="81" />
+            <state relative-caret-position="216">
+              <caret line="64" column="63" selection-start-line="64" selection-start-column="63" selection-end-line="64" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -89,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/review.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="151" column="49" lean-forward="true" selection-start-line="151" selection-start-column="49" selection-end-line="151" selection-end-column="49" />
+            <state relative-caret-position="168">
+              <caret line="64" column="63" selection-start-line="64" selection-start-column="63" selection-end-line="64" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -99,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/fourth.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="153" column="79" lean-forward="true" selection-start-line="153" selection-start-column="79" selection-end-line="153" selection-end-column="79" />
+              <caret line="63" column="71" lean-forward="true" selection-start-line="63" selection-start-column="71" selection-end-line="63" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -116,11 +110,11 @@
         <option value="$PROJECT_DIR$/second.html" />
         <option value="$PROJECT_DIR$/third.html" />
         <option value="$PROJECT_DIR$/where.html" />
-        <option value="$PROJECT_DIR$/news.html" />
         <option value="$PROJECT_DIR$/specialist.html" />
-        <option value="$PROJECT_DIR$/holiday.html" />
-        <option value="$PROJECT_DIR$/review.html" />
+        <option value="$PROJECT_DIR$/news.html" />
         <option value="$PROJECT_DIR$/fourth.html" />
+        <option value="$PROJECT_DIR$/review.html" />
+        <option value="$PROJECT_DIR$/holiday.html" />
       </list>
     </option>
   </component>
@@ -188,23 +182,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580068933273</updated>
-      <workItem from="1580068947235" duration="973000" />
+      <workItem from="1580068947235" duration="1195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="973000" />
+    <option name="totallyTimeSpent" value="1195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3289256" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3289256" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -222,13 +216,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="128" column="32" selection-start-line="128" selection-start-column="32" selection-end-line="132" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/second.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -236,52 +223,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="59" column="24" lean-forward="true" selection-start-line="59" selection-start-column="24" selection-end-line="64" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/third.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="125" column="44" lean-forward="true" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
+        <state relative-caret-position="216">
+          <caret line="64" column="43" lean-forward="true" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/where.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="123" column="30" lean-forward="true" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
+        <state relative-caret-position="96">
+          <caret line="61" column="62" selection-start-line="61" selection-start-column="62" selection-end-line="61" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/news.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="125" column="44" lean-forward="true" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
+        <state relative-caret-position="96">
+          <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/specialist.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="157" column="33" lean-forward="true" selection-start-line="157" selection-start-column="33" selection-end-line="157" selection-end-column="33" />
+          <caret line="60" column="73" lean-forward="true" selection-start-line="60" selection-start-column="73" selection-end-line="60" selection-end-column="73" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/holiday.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="131" column="81" lean-forward="true" selection-start-line="131" selection-start-column="81" selection-end-line="131" selection-end-column="81" />
+        <state relative-caret-position="216">
+          <caret line="64" column="63" selection-start-line="64" selection-start-column="63" selection-end-line="64" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/review.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="151" column="49" lean-forward="true" selection-start-line="151" selection-start-column="49" selection-end-line="151" selection-end-column="49" />
+        <state relative-caret-position="168">
+          <caret line="64" column="63" selection-start-line="64" selection-start-column="63" selection-end-line="64" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fourth.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="153" column="79" lean-forward="true" selection-start-line="153" selection-start-column="79" selection-end-line="153" selection-end-column="79" />
+          <caret line="63" column="71" lean-forward="true" selection-start-line="63" selection-start-column="71" selection-end-line="63" selection-end-column="71" />
         </state>
       </provider>
     </entry>
